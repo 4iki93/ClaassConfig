@@ -147,6 +147,16 @@
             <artifactId>spring-data-jpa</artifactId>
             <version>1.9.1.RELEASE</version>
         </dependency>
+        <dependency>
+            <groupId>jca</groupId>
+            <artifactId>jca</artifactId>
+            <version>1.5</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-war-plugin</artifactId>
+            <version>2.2</version>
+        </dependency>
 
     </dependencies>
 
